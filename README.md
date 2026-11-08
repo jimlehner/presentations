@@ -16,7 +16,7 @@ Have a group that you think I should speak with? Contact me (Jim Lehner) at Qual
 This presentation explores the fundamental challenge of manufacturing and presents the theory, tools, and techniques that make overcoming that challenge possible. 
 
 ### The Definition of Quality
-This presentation presents the case for using the operational definition of quality established by Dr. Genichi Taguchi: on-target with minimum variance.  
+This presentation presents the case for using the operational definition of quality established by Dr. Genichi Taguchi: on-target with minimum variance. This presentation comes in two formats. The first format uses electrical resistance measurements as the practical example while the second uses torque values from a bicycle manufacturer.
 
 ### Description, Modeling, and Characterization
 This presentation compares and contrasts the benefits of descriptive analytical techniques, modeling techniques, and characterization of process data.
@@ -29,15 +29,16 @@ The repository contains the data, figures, notebooks, and presentations.
 ├── README.md
 ├── data/
 │   ├── electrical resistance_measurements.csv
-│   ├── .csv
-│   └── gsc_torque_Nm.csv
+│   ├── gsc_torque_Nm.csv
+│   └── shewharts_resistance_measurements.csv
 ├── figures/
 │   ├── challenge-of-manufacturing-cover.png
 │   ├── def-of-quality-cover.png
 │   └── description-modeling-characterization-cover.png
 ├── notebooks/
 │   ├── the-challenge-of-manufacturing.ipynb
-│   ├── the-definition-of-quality.ipynb
+│   ├── the-definition-of-quality-electrical-resistance.ipynb
+│   ├── the-definition-of-quality-torque-values.ipynb
 │   └── description-modeling-characterization.ipynb
 ├── pre-lecture-activities/
 │   ├── challenge-of-manufacturing-pre-lecture.pdf
