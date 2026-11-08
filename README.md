@@ -1,8 +1,8 @@
 # Presentations
 
-This repository contains the Python code and supporting files associated with in person and digital presentations.
+This repository contains the Python code and supporting files associated with in person and digital presentations given on behalf of Broken Quality Press, The Broken Quality Initiative, and Lehner Process Solutions.
 
-To read the full essay visit [The Math Matters](https://themathmatters.substack.com/p/is-predictable-always-capable).
+To coordinate a presentation contact Jim Lehner at QualityIsBroken@gmail.com or through the [contact page](https://jimlehner.github.io/contact/).
 
 ![](figures/is_predictable_always_capable.png)
 
@@ -10,6 +10,7 @@ To read the full essay visit [The Math Matters](https://themathmatters.substack.
 
 - The Challenge of manufacturing
 - The Definition of Quality
+- Description, Modeling, and Characterization
 
 ### The Challenge of Manufacturing
 This presentation explores the fundamental challenge of manufacturing and presents the theory, tools, and techniques that make overcoming that challenge possible. 
